@@ -1,0 +1,14 @@
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\bin\Debug\net10.0\Temática1.exe
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\bin\Debug\net10.0\Temática1.deps.json
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\bin\Debug\net10.0\Temática1.runtimeconfig.json
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\bin\Debug\net10.0\Temática1.dll
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\bin\Debug\net10.0\Temática1.pdb
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\obj\Debug\net10.0\Temática1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\obj\Debug\net10.0\Temática1.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\obj\Debug\net10.0\Temática1.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\obj\Debug\net10.0\Temática1.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\obj\Debug\net10.0\Temática1.dll
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\obj\Debug\net10.0\refint\Temática1.dll
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\obj\Debug\net10.0\Temática1.pdb
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\obj\Debug\net10.0\Temática1.genruntimeconfig.cache
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Temática1\Temática1\obj\Debug\net10.0\ref\Temática1.dll
